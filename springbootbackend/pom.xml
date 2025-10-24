@@ -64,7 +64,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>backendapiproject</finalName>
+	<finalName>projectbackend</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
